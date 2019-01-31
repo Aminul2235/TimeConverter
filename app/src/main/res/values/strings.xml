@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Time</string>
+    <string name="title_activity_time__converter__adapter">Time_Converter_Adapter</string>
+</resources>
